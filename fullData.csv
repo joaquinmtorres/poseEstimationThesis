@@ -1,0 +1,49 @@
+0,mouseNum,diet,lever,correct,timeInR6,learnType
+C:/Users/PCVR_103C/Desktop/Joaquin Thesis/trimmedDay4\20211115_Mouse 17_FR1 Day 4_gsDLC_Resnet50_secondStepFeb20shuffle1_snapshot_200.h5,17,HFD,L,24,0.2732947765,learner
+C:/Users/PCVR_103C/Desktop/Joaquin Thesis/trimmedDay4\20211115_Mouse 18_FR1 Day 4_gsDLC_Resnet50_secondStepFeb20shuffle1_snapshot_200.h5,18,HFD,L,5,0.3183258136,nonlearner
+C:/Users/PCVR_103C/Desktop/Joaquin Thesis/trimmedDay4\20211115_Mouse 19_FR1 Day 4_gsDLC_Resnet50_secondStepFeb20shuffle1_snapshot_200.h5,19,HFD,R,13,0.2326587905,nonlearner
+C:/Users/PCVR_103C/Desktop/Joaquin Thesis/trimmedDay4\20211115_Mouse 20_FR1 Day 4 attempt 2_gsDLC_Resnet50_secondStepFeb20shuffle1_snapshot_200.h5,20,HFD,R,11,0.3126064736,nonlearner
+C:/Users/PCVR_103C/Desktop/Joaquin Thesis/trimmedDay4\20211115_Mouse 21_FR1 Day 4_gsDLC_Resnet50_secondStepFeb20shuffle1_snapshot_200.h5,21,SC,L,6,0.241040527,nonlearner
+C:/Users/PCVR_103C/Desktop/Joaquin Thesis/trimmedDay4\20211115_Mouse 22_FR1 Day 4_gsDLC_Resnet50_secondStepFeb20shuffle1_snapshot_200.h5,22,SC,L,19,0.2543606856,nonlearner
+C:/Users/PCVR_103C/Desktop/Joaquin Thesis/trimmedDay4\20211115_Mouse 23_FR1 Day 4_gsDLC_Resnet50_secondStepFeb20shuffle1_snapshot_200.h5,23,SC,R,9,0.2601614087,nonlearner
+C:/Users/PCVR_103C/Desktop/Joaquin Thesis/trimmedDay4\20211115_Mouse 24_FR1 Day 4_gsDLC_Resnet50_secondStepFeb20shuffle1_snapshot_200.h5,24,SC,R,4,0.1452090032,nonlearner
+C:/Users/PCVR_103C/Desktop/Joaquin Thesis/trimmedDay4\20211115_Mouse 25_FR1 Day 4_gsDLC_Resnet50_secondStepFeb20shuffle1_snapshot_200.h5,25,HFD,R,32,0.179548157,learner
+C:/Users/PCVR_103C/Desktop/Joaquin Thesis/trimmedDay4\20211115_Mouse 26_FR1 Day 4_gsDLC_Resnet50_secondStepFeb20shuffle1_snapshot_200.h5,26,HFD,R,3,0.2391799544,nonlearner
+C:/Users/PCVR_103C/Desktop/Joaquin Thesis/trimmedDay4\20211115_Mouse 27_FR1 Day 4_gsDLC_Resnet50_secondStepFeb20shuffle1_snapshot_200.h5,27,HFD,L,24,0.1763016606,learner
+C:/Users/PCVR_103C/Desktop/Joaquin Thesis/trimmedDay4\20211115_Mouse 28_FR1 Day 4_gsDLC_Resnet50_secondStepFeb20shuffle1_snapshot_200.h5,28,HFD,L,46,0.2407407407,learner
+C:/Users/PCVR_103C/Desktop/Joaquin Thesis/trimmedDay4\20211115_Mouse 29_FR1 Day 4_gsDLC_Resnet50_secondStepFeb20shuffle1_snapshot_200.h5,29,SC,R,24,0.2466918715,learner
+C:/Users/PCVR_103C/Desktop/Joaquin Thesis/trimmedDay4\20211115_Mouse 30_FR1 Day 4_gsDLC_Resnet50_secondStepFeb20shuffle1_snapshot_200.h5,30,SC,R,8,0.2345104126,nonlearner
+C:/Users/PCVR_103C/Desktop/Joaquin Thesis/trimmedDay4\20211115_Mouse 31_FR1 Day 4_gsDLC_Resnet50_secondStepFeb20shuffle1_snapshot_200.h5,31,SC,L,10,0.4654890033,nonlearner
+C:/Users/PCVR_103C/Desktop/Joaquin Thesis/trimmedDay4\20211115_Mouse 32_FR1 Day 4_gsDLC_Resnet50_secondStepFeb20shuffle1_snapshot_200.h5,32,SC,L,40,0.2392788152,learner
+C:/Users/PCVR_103C/Desktop/Joaquin Thesis/trimmedDay4\20221114_Mouse 49 FR1-4_gsDLC_Resnet50_secondStepFeb20shuffle1_snapshot_200.h5,49,HFD,L,11,0.3571495722,nonlearner
+C:/Users/PCVR_103C/Desktop/Joaquin Thesis/trimmedDay4\20221114_Mouse 50 FR1-4_gsDLC_Resnet50_secondStepFeb20shuffle1_snapshot_200.h5,50,HFD,L,18,0.3655385319,nonlearner
+C:/Users/PCVR_103C/Desktop/Joaquin Thesis/trimmedDay4\20221114_Mouse 51 FR1-4_gsDLC_Resnet50_secondStepFeb20shuffle1_snapshot_200.h5,51,HFD,R,30,0.3171764208,learner
+C:/Users/PCVR_103C/Desktop/Joaquin Thesis/trimmedDay4\20221114_Mouse 52 FR1-4_gsDLC_Resnet50_secondStepFeb20shuffle1_snapshot_200.h5,52,HFD,R,1,0.1471695092,nonlearner
+C:/Users/PCVR_103C/Desktop/Joaquin Thesis/trimmedDay4\20221114_Mouse 53 FR1-4_gsDLC_Resnet50_secondStepFeb20shuffle1_snapshot_200.h5,53,SC,L,19,0.2147222222,nonlearner
+C:/Users/PCVR_103C/Desktop/Joaquin Thesis/trimmedDay4\20221114_Mouse 54 FR1-4_gsDLC_Resnet50_secondStepFeb20shuffle1_snapshot_200.h5,54,SC,L,25,0.289485909,learner
+C:/Users/PCVR_103C/Desktop/Joaquin Thesis/trimmedDay4\20221114_Mouse 55 FR1-4_gsDLC_Resnet50_secondStepFeb20shuffle1_snapshot_200.h5,55,SC,R,10,0.150752226,nonlearner
+C:/Users/PCVR_103C/Desktop/Joaquin Thesis/trimmedDay4\20221114_Mouse 56 FR1-4_gsDLC_Resnet50_secondStepFeb20shuffle1_snapshot_200.h5,56,SC,R,1,0.254139238,nonlearner
+C:/Users/PCVR_103C/Desktop/Joaquin Thesis/trimmedDay4\20221114_Mouse 57 FR1-4_gsDLC_Resnet50_secondStepFeb20shuffle1_snapshot_200.h5,57,HFD,R,17,0.3580729167,nonlearner
+C:/Users/PCVR_103C/Desktop/Joaquin Thesis/trimmedDay4\20221114_Mouse 58 FR1-4_gsDLC_Resnet50_secondStepFeb20shuffle1_snapshot_200.h5,58,HFD,R,13,0.1852823416,nonlearner
+C:/Users/PCVR_103C/Desktop/Joaquin Thesis/trimmedDay4\20221114_Mouse 59 FR1-4_gsDLC_Resnet50_secondStepFeb20shuffle1_snapshot_200.h5,59,HFD,L,7,0.4132705479,nonlearner
+C:/Users/PCVR_103C/Desktop/Joaquin Thesis/trimmedDay4\20221114_Mouse 60 FR1-4_gsDLC_Resnet50_secondStepFeb20shuffle1_snapshot_200.h5,60,HFD,L,35,0.1778275771,learner
+C:/Users/PCVR_103C/Desktop/Joaquin Thesis/trimmedDay4\20221114_Mouse 61 FR1-4_gsDLC_Resnet50_secondStepFeb20shuffle1_snapshot_200.h5,61,SC,R,12,0.1818263608,nonlearner
+C:/Users/PCVR_103C/Desktop/Joaquin Thesis/trimmedDay4\20221114_Mouse 62 FR1-4_gsDLC_Resnet50_secondStepFeb20shuffle1_snapshot_200.h5,62,SC,R,0,0.06268980477,nonlearner
+C:/Users/PCVR_103C/Desktop/Joaquin Thesis/trimmedDay4\20221114_Mouse 63 FR1-4_gsDLC_Resnet50_secondStepFeb20shuffle1_snapshot_200.h5,63,SC,L,31,0.2019357677,learner
+C:/Users/PCVR_103C/Desktop/Joaquin Thesis/trimmedDay4\20221114_Mouse 64 FR1-4_gsDLC_Resnet50_secondStepFeb20shuffle1_snapshot_200.h5,64,SC,L,14,0.2941510505,nonlearner
+C:/Users/PCVR_103C/Desktop/Joaquin Thesis/trimmedDay4\Mouse 81 FR1-4_gsDLC_Resnet50_secondStepFeb20shuffle1_snapshot_200.h5,81,HFD,R,30,0.2627019433,learner
+C:/Users/PCVR_103C/Desktop/Joaquin Thesis/trimmedDay4\Mouse 82 FR1-4_gsDLC_Resnet50_secondStepFeb20shuffle1_snapshot_200.h5,82,HFD,R,7,0.3150595883,nonlearner
+C:/Users/PCVR_103C/Desktop/Joaquin Thesis/trimmedDay4\Mouse 83 FR1-4_gsDLC_Resnet50_secondStepFeb20shuffle1_snapshot_200.h5,83,HFD,L,9,0.2392093586,nonlearner
+C:/Users/PCVR_103C/Desktop/Joaquin Thesis/trimmedDay4\Mouse 84 FR1-4_gsDLC_Resnet50_secondStepFeb20shuffle1_snapshot_200.h5,84,HFD,L,3,0.2276373543,nonlearner
+C:/Users/PCVR_103C/Desktop/Joaquin Thesis/trimmedDay4\Mouse 85 FR1-4_gsDLC_Resnet50_secondStepFeb20shuffle1_snapshot_200.h5,85,SC,R,28,0.1827634826,learner
+C:/Users/PCVR_103C/Desktop/Joaquin Thesis/trimmedDay4\Mouse 86 FR1-4_gsDLC_Resnet50_secondStepFeb20shuffle1_snapshot_200.h5,86,SC,R,45,0.1952025456,learner
+C:/Users/PCVR_103C/Desktop/Joaquin Thesis/trimmedDay4\Mouse 87 FR1-4_gsDLC_Resnet50_secondStepFeb20shuffle1_snapshot_200.h5,87,SC,L,37,0.2643179765,learner
+C:/Users/PCVR_103C/Desktop/Joaquin Thesis/trimmedDay4\Mouse 88 FR1-4_gsDLC_Resnet50_secondStepFeb20shuffle1_snapshot_200.h5,88,SC,L,36,0.3845305897,learner
+C:/Users/PCVR_103C/Desktop/Joaquin Thesis/trimmedDay4\Mouse 89 FR1-4_gsDLC_Resnet50_secondStepFeb20shuffle1_snapshot_200.h5,89,HFD,L,0,0.223704563,nonlearner
+C:/Users/PCVR_103C/Desktop/Joaquin Thesis/trimmedDay4\Mouse 90 FR1-4_gsDLC_Resnet50_secondStepFeb20shuffle1_snapshot_200.h5,90,HFD,L,0,0.1621749409,nonlearner
+C:/Users/PCVR_103C/Desktop/Joaquin Thesis/trimmedDay4\Mouse 91 FR1-4_gsDLC_Resnet50_secondStepFeb20shuffle1_snapshot_200.h5,91,HFD,R,39,0.3049098414,learner
+C:/Users/PCVR_103C/Desktop/Joaquin Thesis/trimmedDay4\Mouse 92 FR1-4_gsDLC_Resnet50_secondStepFeb20shuffle1_snapshot_200.h5,92,HFD,R,2,0.1443733154,nonlearner
+C:/Users/PCVR_103C/Desktop/Joaquin Thesis/trimmedDay4\Mouse 93 FR1-4_gsDLC_Resnet50_secondStepFeb20shuffle1_snapshot_200.h5,93,SC,L,6,0.1637197744,nonlearner
+C:/Users/PCVR_103C/Desktop/Joaquin Thesis/trimmedDay4\Mouse 94 FR1-4_gsDLC_Resnet50_secondStepFeb20shuffle1_snapshot_200.h5,94,SC,L,3,0.1929538411,nonlearner
+C:/Users/PCVR_103C/Desktop/Joaquin Thesis/trimmedDay4\Mouse 95 FR1-4_gsDLC_Resnet50_secondStepFeb20shuffle1_snapshot_200.h5,95,SC,R,4,0.09960607766,nonlearner
+C:/Users/PCVR_103C/Desktop/Joaquin Thesis/trimmedDay4\Mouse 96 FR1-4_gsDLC_Resnet50_secondStepFeb20shuffle1_snapshot_200.h5,96,SC,R,4,0.1553672316,nonlearner
