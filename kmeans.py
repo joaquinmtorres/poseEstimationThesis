@@ -146,7 +146,7 @@ for j in range(len(fileDF[0])):
 plt.figure()
 # all learners
 plt.subplot(3,2,1)
-allLearners = sum(sum(HFDlearners), sum(SClearners))/(len(HFDlearners)+len(SClearners)) #get average proportion time spent
+allLearners = (sum(HFDlearners) + sum(SClearners))/(len(HFDlearners)+len(SClearners)) #get average proportion time spent
 plt.imshow(allLearners, cmap="hot", interpolation="nearest", extent=[0,640,0,480])
 plt.title("All learners")
 plt.plot([640/3,640/3],[0,480], color="silver", lw=0.5)
@@ -154,11 +154,11 @@ plt.plot([1280/3,1280/3],[0,480], color="silver", lw=0.5)
 plt.plot([0,640],[480/3,480/3], color="silver", lw=0.5)
 plt.plot([0,640],[960/3,960/3], color="silver", lw=0.5)
 plt.colorbar()
-plt.clim(0, 0.13)
+plt.clim(0, 0.05)
 
 # all nonlearners
 plt.subplot(3,2,2)
-allNonlearners = sum(sum(HFDnonlearners), sum(SCnonlearners))/(len(HFDnonlearners)+len(SCnonlearners))
+allNonlearners = (sum(HFDnonlearners) + sum(SCnonlearners))/(len(HFDnonlearners)+len(SCnonlearners))
 plt.imshow(allNonlearners, cmap="hot", interpolation="nearest", extent=[0,640,0,480])
 plt.title("All non-learners")
 plt.plot([640/3,640/3],[0,480], color="silver", lw=0.5)
@@ -166,7 +166,7 @@ plt.plot([1280/3,1280/3],[0,480], color="silver", lw=0.5)
 plt.plot([0,640],[480/3,480/3], color="silver", lw=0.5)
 plt.plot([0,640],[960/3,960/3], color="silver", lw=0.5)
 plt.colorbar()
-plt.clim(0, 0.13)
+plt.clim(0, 0.05)
 
 # HFD learners
 plt.subplot(3,2,3)
